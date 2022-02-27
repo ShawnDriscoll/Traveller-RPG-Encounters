@@ -46,7 +46,7 @@ Double-click ``TravEncounters.py`` to start the WSGI micro web-framework. Then e
 Not Using Python?
 -----------------
 
-You can always run the .EXE version for Windows 10 if you don't have the Python language installed.
+You can always run the .EXE version for Windows 10 (found in the dist folder) if you don't have the Python language installed.
 
 .. |ss| raw:: html
 
@@ -64,8 +64,8 @@ Things To-Do
 | NPC encounters.
 |ss|
 
-| Move PDF character sheets closer to program folder.
-| Add Encumbrance rules from Rocket Cadets in the 11th Dimension!
+| Begin on space encounters.
+| Debate on whether to do this project for a web browser or as a PyQt5 app.
 | Start on a To-Do.
 
 |se|
