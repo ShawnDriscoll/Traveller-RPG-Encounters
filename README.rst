@@ -42,6 +42,8 @@ Starting the Program
 
 Double-click ``TravEncounters.py`` to start the WSGI micro web-framework. Then enter http://localhost:8080/encounters in your web browser.
 
+.. figure:: images/server_startup.png
+
 
 Not Using Python?
 -----------------
