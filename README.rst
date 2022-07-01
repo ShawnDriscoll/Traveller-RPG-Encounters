@@ -1,5 +1,5 @@
-.. image:: images/python_v3_9_10_tag.png
-    :target: https://www.python.org/downloads/release/python-3910/
+.. image:: images/python_v3_9_11_tag.png
+    :target: https://www.python.org/downloads/release/python-3911/
     
 **TravEncounters**
 ==================
@@ -17,7 +17,7 @@ Requirements
 
    It might not work in OSX or Linux.
    
-* **Python 3.9.10**
+* **Python 3.9.11**
    
    **TravEncounters** was written using the C implementation of Python
    version 3.9.10. Also known as CPython.
@@ -25,10 +25,6 @@ Requirements
 * **bottle 0.12.19**
 
    bottle is the web framework used.
-   
-* **colorama 0.4.4**
-
-   Because the dice roller may have some colored text messages for debugging.
 
 
 Warning
@@ -66,6 +62,7 @@ Things To-Do
 | NPC encounters.
 |ss|
 
+| Removed colorama requirement.
 | Begin on space encounters.
 | Debate on whether to do this project for a web browser or as a PyQt5 app.
 | Start on a To-Do.
@@ -73,6 +70,10 @@ Things To-Do
 |se|
 
 **Known History**
+
+* v0.1.0
+
+  * Removed requirement for colorama.
 
 * v0.0.1
 

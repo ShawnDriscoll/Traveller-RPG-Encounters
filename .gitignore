@@ -5,6 +5,10 @@
 Logs/
 *.log
 
+#############
+## mypy
+#############
+.mypy_cache/
 
 #############
 ## Windows
@@ -15,7 +19,6 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
-
 
 ############
 ## Python

@@ -4,7 +4,7 @@ import os
 import logging
 
 __author__ = 'Shawn Driscoll <shawndriscoll@hotmail.com>\nshawndriscoll.blogspot.com'
-__version__ = '0.0.1'
+__version__ = '0.1.0'
 __app__ = 'TravEncounters ' + __version__
 
 def app():
@@ -90,8 +90,6 @@ def app():
         if die1 < 0:
             die1 = 0
         d66_rolled = str(die1) + str(die2)
-        print(d66_rolled)
-        #print(die1, die2)
         space_encounter = '''<html>
 <head>
 <title>There's An Encounter</title>
