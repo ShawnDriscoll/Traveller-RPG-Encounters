@@ -15,16 +15,16 @@ Requirements
 
 * **Windows 10**
 
-   It might not work in OSX or Linux.
-   
+  It might not work in OSX or Linux.
+
 * **Python 3.9.11**
-   
-   **TravEncounters** was written using the C implementation of Python
-   version 3.9.10. Also known as CPython.
+
+  **TravEncounters** was written using the C implementation of Python
+  version 3.9.10. Also known as CPython.
 
 * **bottle 0.12.19**
 
-   bottle is the web framework used.
+  bottle is the web framework used.
 
 
 Warning
@@ -73,11 +73,11 @@ Things To-Do
 
 * v0.1.0
 
-  * Removed requirement for colorama.
+  Removed requirement for colorama.
 
 * v0.0.1
 
-  * Testing space encounters.
+  Testing space encounters.
 
 Contact
 -------
