@@ -1,5 +1,3 @@
-.. image:: images/python_v3_9_11_tag.png
-    :target: https://www.python.org/downloads/release/python-3911/
     
 **TravEncounters**
 ==================
@@ -7,7 +5,7 @@
 .. figure:: images/travencounters.png
 
 
-**TravEncounters** is a Python 3.x program that generates encounters for Mongoose Traveller 1st Edition in a web browser.
+**TravEncounters** is a Python 3.9 program that generates encounters for Mongoose Traveller 1st Edition in a web browser.
 
 
 Requirements
@@ -17,10 +15,10 @@ Requirements
 
   It might not work in OSX or Linux.
 
-* **Python 3.9.11**
+* **Python 3.9**
 
   **TravEncounters** was written using the C implementation of Python
-  version 3.9.10. Also known as CPython.
+  version 3.9. Also known as CPython.
 
 * **bottle 0.12.19**
 
