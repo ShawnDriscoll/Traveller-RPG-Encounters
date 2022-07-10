@@ -56,10 +56,11 @@ Things To-Do
 ------------
 
 | Finish space encounters.
-| Animal encounters.
-| NPC encounters.
+| Finish NPC encounters.
+| Need Animal encounters.
 |ss|
 
+| Start on NPC encounters.
 | Removed colorama requirement.
 | Begin on space encounters.
 | Debate on whether to do this project for a web browser or as a PyQt5 app.
@@ -68,6 +69,12 @@ Things To-Do
 |se|
 
 **Known History**
+
+* v0.2.0
+
+  Began adding logging for the app.
+  Added a bit to space encounters.
+  Added the beginnings for an NPC encounter.
 
 * v0.1.0
 
