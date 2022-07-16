@@ -1,6 +1,6 @@
     
-**TravEncounters**
-==================
+**TravEncounters (alpha release)**
+==================================
 
 .. figure:: images/travencounters.png
 
@@ -70,17 +70,17 @@ Things To-Do
 
 **Known History**
 
-* v0.2.0
+* v0.2.0a
 
   Began adding logging for the app.
   Added a bit to space encounters.
   Added the beginnings for an NPC encounter.
 
-* v0.1.0
+* v0.1.0a
 
   Removed requirement for colorama.
 
-* v0.0.1
+* v0.0.1a
 
   Testing space encounters.
 

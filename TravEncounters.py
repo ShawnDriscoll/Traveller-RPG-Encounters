@@ -1,6 +1,6 @@
 
 #
-# Traveller RPG Encounters v0.2.0.
+# Traveller RPG Encounters v0.2.0a.
 # https://github.com/ShawnDriscoll/Traveller-RPG-Encounters
 #
 # This encounters web app for Mongoose Traveller 1st Edition was written in Python 3.9.11.
@@ -21,7 +21,7 @@ import os
 import logging
 
 __author__ = 'Shawn Driscoll <shawndriscoll@hotmail.com>\nshawndriscoll.blogspot.com'
-__version__ = '0.2.0'
+__version__ = '0.2.0a'
 __app__ = 'TravEncounters ' + __version__
 
 def app():
@@ -469,7 +469,7 @@ def app():
 </html>
 '''
         else:
-            log.info("There's no Encounter")
+            log.info("There's no Land Encounter")
             return '''<html>
 <head>
 <title>There's No Encounter</title>
