@@ -1,9 +1,9 @@
 
 #
-# Traveller RPG Encounters v0.2.0a.
+# Traveller RPG Encounters v0.2.1a.
 # https://github.com/ShawnDriscoll/Traveller-RPG-Encounters
 #
-# This encounters web app for Mongoose Traveller 1st Edition was written in Python 3.9.11.
+# This encounters web app for Mongoose Traveller 1st Edition was written in Python 3.9.13.
 #
 # Run this code at the CMD prompt while pointing your web browser
 # to http://localhost:8080/generate
@@ -16,12 +16,12 @@
 
 from bottle import run, get, post, request # or route
 from random import randint
-from rpg_tools.PyDiceroll import roll
+from rpg_tools.pydice import roll
 import os
 import logging
 
 __author__ = 'Shawn Driscoll <shawndriscoll@hotmail.com>\nshawndriscoll.blogspot.com'
-__version__ = '0.2.0a'
+__version__ = '0.2.1a'
 __app__ = 'TravEncounters ' + __version__
 
 def app():

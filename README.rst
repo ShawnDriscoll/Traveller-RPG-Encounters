@@ -13,7 +13,7 @@ Requirements
 
 * **Windows 10**
 
-  It might not work in OSX or Linux.
+  Has not been tested with Windows 11.
 
 * **Python 3.9**
 
@@ -69,6 +69,10 @@ Things To-Do
 |se|
 
 **Known History**
+
+* v0.2.1a
+
+  Switched over to using **pydice** for die rolling.
 
 * v0.2.0a
 
